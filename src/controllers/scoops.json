@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Jabłkowy",
+    "imagePath": "/images/apple.png",
+    "price": 2
+  },
+  {
+    "name": "Waniliowy",
+    "imagePath": "/images/vanilla.png",
+    "price": 2.2
+  },
+  {
+    "name": "Truskawkowy",
+    "imagePath": "/images/strawberry.png",
+    "price": 2.4
+  }
+]
