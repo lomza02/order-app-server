@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Czekoladowy",
+    "imagePath": "/images/chocolate.png",
+    "price": 2
+  },
+  {
+    "name": "Wiśniowy",
+    "imagePath": "/images/cherries.png",
+    "price": 1
+  },
+  {
+    "name": "Żelkowy",
+    "imagePath": "/images/gummy-bears.png",
+    "price": 2.5
+  }
+]
